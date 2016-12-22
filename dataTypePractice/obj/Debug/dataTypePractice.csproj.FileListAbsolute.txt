@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\bin\Debug\dataTypePractice.exe.config
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\bin\Debug\dataTypePractice.exe
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\bin\Debug\dataTypePractice.pdb
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\obj\Debug\dataTypePractice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\obj\Debug\dataTypePractice.exe
+c:\users\user\documents\visual studio 2015\Projects\dataTypePractice\dataTypePractice\obj\Debug\dataTypePractice.pdb
